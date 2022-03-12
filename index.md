@@ -6,9 +6,9 @@ Kollektor is a full stack MERN web application for users to catalogue & discuss 
 
 ### Project links
 
-Backend repository (https://github.com/SeamusMcCarthy/Kollektor-backend)
-Frontend repository (https://github.com/SeamusMcCarthy/Kollektor-frontend)
-Trello board (https://trello.com/b/692Rurvy/agile-sprint-board)
+[Backend repository](https://github.com/SeamusMcCarthy/Kollektor-backend)
+[Frontend repository](https://github.com/SeamusMcCarthy/Kollektor-frontend)
+[Trello board for sprint management](https://trello.com/b/692Rurvy/agile-sprint-board)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
