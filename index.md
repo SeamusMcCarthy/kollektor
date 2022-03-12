@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to the Kollektor GitHub Page
 
-You can use the [editor on GitHub](https://github.com/SeamusMcCarthy/kollektor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kollektor is the final year project submission by Seamus McCarthy in the WIT Higher Diploma in Science in Computer Science 2020-2022.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kollektor is a full stack MERN web application for users to catalogue & discuss their musical equipment collections.
 
-### Markdown
+### Project links
+
+Backend repository (https://github.com/SeamusMcCarthy/Kollektor-backend)
+Frontend repository (https://github.com/SeamusMcCarthy/Kollektor-frontend)
+Trello board (https://trello.com/b/692Rurvy/agile-sprint-board)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
