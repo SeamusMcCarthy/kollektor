@@ -12,6 +12,9 @@ Kollektor is a full stack MERN web application for users to catalogue & discuss 
 
 [Trello board for sprint management](https://trello.com/b/692Rurvy/agile-sprint-board)
 
+### Automated testing
+Automated testing was performed using [Cypress](http://www.cypress.io). A recording of the tests in action can be found [here](https://youtu.be/upHu6RIM3I0)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
