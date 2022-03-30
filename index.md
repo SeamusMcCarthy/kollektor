@@ -12,7 +12,7 @@ Kollektor is a full stack MERN web application for users to catalogue & discuss 
 
 [Trello board for sprint management](https://trello.com/b/692Rurvy/agile-sprint-board)
 
-[Main site](http://shorturl.at/cvT39)
+[Main site](https://shorturl.at/cvT39)
 
 ### Automated testing
 Automated testing was performed using [Cypress](http://www.cypress.io). A recording of the tests in action can be found [here](https://youtu.be/upHu6RIM3I0)
