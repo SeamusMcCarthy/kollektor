@@ -19,4 +19,4 @@ Automated testing was performed using [Cypress](http://www.cypress.io). A record
 
 ### Images of site
 
-![Axe checks in browser](/assets/images/AxeChecks.png)
+![Axe checks in browser](/docs/assets/images/AxeChecks.png)
