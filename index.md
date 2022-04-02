@@ -18,5 +18,14 @@ Kollektor is a full stack MERN web application for users to catalogue & discuss 
 Automated testing was performed using [Cypress](http://www.cypress.io). A recording of the tests in action can be found [here](https://youtu.be/upHu6RIM3I0)
 
 ### Images of site
+Landing page when logged in
+![Logged in page](/docs/assets/images/CatLoggedInPage.png)
 
+Example of a typical entry
+![Example of an entry](/docs/assets/images/EntryDetails.png)
+
+Cypress tests in action
+![Cypress tests](/docs/assets/images/CypressTest.png)
+
+Using Axe DevTools Chrome extension to check for a11y errors
 ![Axe checks in browser](/docs/assets/images/AxeChecks.png)
