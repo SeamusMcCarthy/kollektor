@@ -15,7 +15,12 @@ Kollektor is a full stack MERN web application for users to catalogue & discuss 
 [Main site](https://kollektor1-21c76.web.app)
 
 ### Automated testing
-Automated testing was performed using [Cypress](http://www.cypress.io). A recording of the tests in action can be found [here](https://youtu.be/upHu6RIM3I0)
+The bulk of the automated testing was performed using [Cypress](http://www.cypress.io). A recording of the tests in action can be found [here](https://youtu.be/upHu6RIM3I0)
+
+Some preliminary automated testing was also performed using [Playwright.dev](https://playwright.dev/)
+
+### Accessibility testing
+As part of the automated testing, accessibility (a11y) checks were performed on the logged out pages. This was performed using the [cypress-axe](https://www.npmjs.com/package/cypress-axe) plugin and also using the [Axe DevTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) Chrome extension.
 
 ### Images of site
 Landing page when logged in
