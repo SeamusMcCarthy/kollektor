@@ -14,6 +14,8 @@ Kollektor is a full stack MERN web application for users to catalogue & discuss 
 
 [Main site](https://kollektor1-21c76.web.app)
 
+[Project Demo](https://youtu.be/RU0VzdzBeeM)
+
 ### Automated testing
 The bulk of the automated testing was performed using [Cypress](http://www.cypress.io). A recording of the tests in action can be found [here](https://youtu.be/upHu6RIM3I0)
 
